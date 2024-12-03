@@ -1,6 +1,6 @@
 # [Import all objects from the p01_2bl_salesmanager module]
-import p01beg_2bl_salesmanager as sm # type: ignore
-import p01beg_1da_sales as sd # type: ignore
+import p01beg_2bl_salesmanager as sm 
+import p01beg_1da_sales as sd 
 from datetime import date, datetime
 
 def display_title():
