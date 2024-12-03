@@ -3,7 +3,7 @@
 import csv
 # [import class Decimal and constant ROUND_HALF_UP from decimal library]
 from decimal import Decimal, ROUND_HALF_UP
-import p01beg_1da_sales as sd # type: ignore
+import p01beg_1da_sales as sd 
 import locale as lc
 
 lc.setlocale(lc.LC_ALL, "en_US")
